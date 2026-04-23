@@ -63,7 +63,7 @@ Runs ESLint across the project.
 ## Project Structure
 
 ```text
-client/
+Frontend/
 ├── public/
 │   ├── favicon.svg
 │   ├── icons.svg
