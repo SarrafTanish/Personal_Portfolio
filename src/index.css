@@ -4,6 +4,10 @@
   font-family: Inter, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 html,
 body,
 #root {
